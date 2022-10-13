@@ -1,5 +1,6 @@
 
-[![Build status](https://ci.appveyor.com/api/projects/status/47wo55xk9fp3gmu3?svg=true)](https://ci.appveyor.com/project/VisYar/hwauto3)
+[![Build status](https://ci.appveyor.com/api/projects/status/a79f0t1am73pn4k0?svg=true)](https://ci.appveyor.com/project/VisYar/hwauto3-cardorder)
+
 
 
 # Домашнее задание к занятию «2.1. Тестирование веб-интерфейсов»
